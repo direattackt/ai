@@ -1,0 +1,5 @@
+int wht
+a 
+b 
+
+int blk

@@ -1,0 +1,12 @@
+
+
+render square
+from
+	words
+	add to plot A, B, C, D
+		union characters from
+		find merge n
+		found t
+	con
+con
+
